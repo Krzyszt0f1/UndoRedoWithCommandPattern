@@ -1,0 +1,15 @@
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/bin/Debug/net7.0/UndoWithCommandPattern
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/bin/Debug/net7.0/UndoWithCommandPattern.deps.json
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/bin/Debug/net7.0/UndoWithCommandPattern.runtimeconfig.json
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/bin/Debug/net7.0/UndoWithCommandPattern.dll
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/bin/Debug/net7.0/UndoWithCommandPattern.pdb
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.csproj.AssemblyReference.cache
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.AssemblyInfoInputs.cache
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.AssemblyInfo.cs
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.csproj.CoreCompileInputs.cache
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.dll
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/refint/UndoWithCommandPattern.dll
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.pdb
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/UndoWithCommandPattern.genruntimeconfig.cache
+/Users/krzysztofkasprzak/UndoWithCommandPattern/UndoWithCommandPattern/obj/Debug/net7.0/ref/UndoWithCommandPattern.dll
